@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+h1{
+    font-size: 60px;
+}
+
+.highlight-color{
+    color: coral;
+}
+
+
+.half-area{
+    width: 40%;
+    float: left;
+    margin-left: 5px;
+    padding-left: 50px;
+}
+
+.half-area img{
+    height: 740pox;
+    width: 600px;
+    margin-left: 250px;
+    border-radius: 500px;
+    padding-top: 2px;
+    
+}
+
+.top-banner{
+    height: 600px;
+   background-image: url("images/back1.jpg");
+}
+
+button
